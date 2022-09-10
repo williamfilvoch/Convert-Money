@@ -1,5 +1,5 @@
 
-<h2 align="center"> Projeto: Conversor de Moedas :heavy_dollar_sign: </h2>
+<h1 align="center"> Projeto: Conversor de Moedas :heavy_dollar_sign: </h1>
 <br>
 <br>
 
