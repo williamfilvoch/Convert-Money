@@ -53,26 +53,24 @@
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <h4>
-  :children_crossing:  Display;
+  :children_crossing: getElementById;
    <br>
-   :children_crossing: Padding e Margin;
+   :children_crossing: operadores de comparação;
    <br>
-   :children_crossing: Unidades de medidas;
+   :children_crossing: Funcões;
    <br>
-   :children_crossing: propriedades e valores;
+   :children_crossing: DOM;
    <br>
-   :children_crossing: Textos e cores;
+   :children_crossing: operadores de atribuição;
    <br>
-   :children_crossing: Responsividade;
+   :children_crossing: eventos;
    <br>
-   :children_crossing:  border;
+   :children_crossing: variáveis;
    <br>
-   :children_crossing: background;
+   :children_crossing: strings;
    <br>
 </h4>
- 
- 
- 
+
 </div>
   
   <br>
@@ -84,18 +82,14 @@
 
 </div>
 
+  <br>
+  <br>
+<h2>You can contact me at Socials:</h2>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
+  <div>
+  <a href="https://www.instagram.com/will_filvoch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wfilvoch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/william-filvoch-089647245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  <br>
+  <br>
