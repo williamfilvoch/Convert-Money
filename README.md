@@ -20,9 +20,9 @@
    <br>
   :small_orange_diamond: Html Semântico;
    <br>
-   :small_orange_diamond: input;
+   :small_orange_diamond: Input;
    <br>
-    :small_orange_diamond:Tag's de texto;
+    :small_orange_diamond: Tag's de texto;
    <br>
    :small_orange_diamond: Técnicas de SEO;
  </h4>
@@ -37,15 +37,15 @@
    <br>
    :small_blue_diamond: Unidades de medidas;
    <br>
-   :small_blue_diamond: propriedades e valores;
+   :small_blue_diamond: Propriedades e valores;
    <br>
    :small_blue_diamond: Textos e cores;
    <br>
    :small_blue_diamond: Responsividade;
    <br>
-   :small_blue_diamond:  border;
+   :small_blue_diamond: Border;
    <br>
-   :small_blue_diamond: background;
+   :small_blue_diamond: Background;
    <br>
 </h4>
   <br>
@@ -53,21 +53,21 @@
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <h4>
-  :children_crossing: getElementById;
+  :children_crossing: GetElementById;
    <br>
-   :children_crossing: operadores de comparação;
+   :children_crossing: Operadores de comparação;
    <br>
    :children_crossing: Funcões;
    <br>
    :children_crossing: DOM;
    <br>
-   :children_crossing: operadores de atribuição;
+   :children_crossing: Operadores de atribuição;
    <br>
-   :children_crossing: eventos;
+   :children_crossing: Eventos;
    <br>
-   :children_crossing: variáveis;
+   :children_crossing: Variáveis;
    <br>
-   :children_crossing: strings;
+   :children_crossing: Strings;
    <br>
 </h4>
 
