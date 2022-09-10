@@ -20,7 +20,7 @@
 <div>
   <br>
   <br>
- <h2> :pushpin: Link site: <a href="" target="_blank" > DevClub Convert Money </a> </h2>
+ <h2> :pushpin: Link site: <a href="https://williamfilvoch.github.io/Convert-Money/" target="_blank" > DevClub Convert Money </a> </h2>
   <br>
   <br>
   <img src="https://github.com/williamfilvoch/Convert-Money/blob/master/assets/img-Convert-Money.png">
