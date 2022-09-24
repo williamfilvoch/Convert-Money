@@ -22,14 +22,14 @@
       <main>
         <label>
           converter <b>de</b>
-          <select>
+          <select id="currency-select-from">
             <option>R$ Real Brasileiro</option>
           </select>
         </label>
 
         <label>
           converter <b>para</b>
-          <select id="currency-select">
+          <select id="currency-select-to">
             <option>US$ Dólar Americano</option>
             <option>€ Euro</option>
             <option>₿ Bitcoin</option>
@@ -45,9 +45,9 @@
 
         <section>
           <div class="currency-container">
-            <img src="./assets/bandeira-brasil.png" alt="bandeira-Brasil" />
+            <img id="currency-img-from" src="./assets/bandeira-brasil.png" alt="bandeira-Brasil" />
             <p class="currency-name">Real</p>
-            <p class="currency-value" id="real-text-value">R$ 0.000,00</p>
+            <p class="currencyValueTextTo" id="real-text-value">R$ 0.000,00</p>
           </div>
 
           <img class="arrow-img" src="./assets/Vector.png" alt="seta" />
@@ -55,7 +55,7 @@
           <div class="currency-container">
             <img src="./assets/estados-unidos.png" id="currenty-img" alt="bandeira-EUA" />
             <p class="currency-name" id="currency-name">Dólar</p>
-            <p class="currency-value" id="dolar-text-value"> US$ 0.000,00 </p>
+            <p class="currencyValueTextTo" id="dolar-text-value"> US$ 0.000,00 </p>
           </div>
 
         </section>
