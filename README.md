@@ -68,6 +68,8 @@
    <br>
    :children_crossing: Strings;
    <br>
+   :children_crossing:Uso de API;
+   <br>
 </h4>
 
 </div>
