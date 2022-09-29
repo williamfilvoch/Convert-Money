@@ -24,7 +24,6 @@
    <br>
     :small_orange_diamond: Tag's de texto;
    <br>
-   :small_orange_diamond: Técnicas de SEO;
  </h4>
   <br>
   <br>
@@ -68,6 +67,8 @@
    :children_crossing: Variáveis;
    <br>
    :children_crossing: Strings;
+   <br>
+   :children_crossing:Uso de API;
    <br>
 </h4>
 
