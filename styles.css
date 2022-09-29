@@ -8,15 +8,16 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-image: linear-gradient(
     to top,
     #3b41c5 0%,
     #a981bb 50%,
     #ffc8a9 100%
   );
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 100vh;
 }
 
 header {
@@ -29,8 +30,8 @@ header {
 
 .container {
   width: 375px;
+  margin: 50px auto;
   background-color: #f4f4f4;
-  margin: 10% auto;
 }
 
 h1 {
@@ -140,6 +141,6 @@ section {
 }
 
 .arrow-img {
-  width: 35px;
+  width: 45px;
   height: 45px;
 }
